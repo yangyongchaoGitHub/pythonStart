@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/helloXu.py.iml" filepath="$PROJECT_DIR$/helloXu.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netModule/netModule.iml" filepath="$PROJECT_DIR$/netModule/netModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python.iml" filepath="$PROJECT_DIR$/python.iml" />
+    </modules>
+  </component>
+</project>
